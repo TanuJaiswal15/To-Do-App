@@ -11,16 +11,16 @@ A simple and attractive To-Do list application built with **React + Vite + Mater
 ## 🛠️ Installation
 
 1. Clone the repo:
-   git clone https://github.com/<your-username>/todo-app.git
+   git clone https://github.com/TanuJaiswal15/To-Do-App
    cd todo-app
 
-2. Install dependencies:
+3. Install dependencies:
     npm install
 
-3. Run locally:
+4. Run locally:
   npm run dev
 
-4. Build for production:
+5. Build for production:
   npm run build
   npm run preview
 
